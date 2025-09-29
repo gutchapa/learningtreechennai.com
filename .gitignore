@@ -1,0 +1,17 @@
+# OVI Panel files
+.ovi-knowns/
+_errorpages/
+ovi-logo.png
+
+# System files
+.DS_Store
+.thumbs
+.idea/
+
+# Log files
+*.log
+error_log
+
+# Backup files
+*.bak
+*.backup
