@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Contact Us</title>
+		<description><![CDATA[Learning Tree Montessori School, Chennai, has established itself as one of the premier Montessori schools in the city for pre-primary education.]]></description>
+		<link>https://www.learningtreechennai.com/contact-us</link>
+		<lastBuildDate>Sat, 23 Dec 2023 15:49:18 +0530</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.learningtreechennai.com/contact-us?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Main School and Office (Adyar)</title>
+			<link>https://www.learningtreechennai.com/contact-us/1</link>
+			<guid isPermaLink="true">https://www.learningtreechennai.com/contact-us/1</guid>
+			<description><![CDATA[9B, 14th Cross Street, Shastri Nagar, Adyar
+]]></description>
+			<category>Contact Us</category>
+			<pubDate>Fri, 04 Nov 2016 17:56:30 +0530</pubDate>
+		</item>
+		<item>
+			<title>Primary Section,  Kottivakkam</title>
+			<link>https://www.learningtreechennai.com/contact-us/3</link>
+			<guid isPermaLink="true">https://www.learningtreechennai.com/contact-us/3</guid>
+			<description><![CDATA[No.4/427, First Main Road, Swaminathan Nagar, Kottivakkam]]></description>
+			<category>Contact Us</category>
+			<pubDate>Fri, 04 Nov 2016 18:09:09 +0530</pubDate>
+		</item>
+	</channel>
+</rss>
